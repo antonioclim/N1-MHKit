@@ -1,0 +1,204 @@
+﻿,,,selected 120-400Hz for phonostetoscope,Puls: ±5% din valoarea afisataPrecizie Tensiune: ±3 mmHg,all records 30s except first 3 of them -  10 sec,,"1,013.25 hPa=1 atm = 760mmhg",1.33322387415 hPa=1 mmcHg,,,,,,,,,,,,,,,,,,,
+,Date/ sleep score during the night/number of steps (walking) during the entire day.,The hour of deetermination,Thinklab stetoscope,Omron BP monitor,Contec portable ECG,Professional Meteo station,Professional Meteo station,Professional Meteo station,Infrared precision thermometer,Contec PPG,Contec PPG,Samsung watch,Samsung watch,,N/A,Laser air quality controller,Laser air quality controller,Laser air quality controller,N/A,N/A,,,,,almost constant,,
+,,hh:mm,Thinklab,Omron sys/dia/bpm,Contec ECG,env. Temp celsius,OtP humidity,atm. Press. hPa,body temp C,PPG (SpO2 value),Pulse,Samsung watch (BP pressure: Systolic BP/Diastolic BP/pulse rate  + SpO2 value + type of cardiac rhythm),Samsung watch (stress level),BMI,Relevant activities before measurement,Air particles: PM1,Air particles:PM2.5,Air particles:PM10,Wheater,Day wake-up hour with or without Noliprel and Aspirin Cardio,sys BP,dia BP,HR,ΔBP=Pp (pulse pressure),ΔBP * HR,,
+1,7:39 h sleep / sleep score 71 (REM 24% light 64 deep 5% awake 7%),19:43,sound wav ~2min,124/83/88,ekg pdf ~30sec,23.00,76%,1008,"36,4",96%,88bpm,116/77/88  SpO2 97% synus rhythm,low stress,,,,,,,wake up at 6:55,124,83,88,41,3608,50.18,22.39
+,19 iul 2021,,,,,,,,,,,,,,,,,,,after pills,,,,0,0,#DIV/0!,#DIV/0!
+,total 12000 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+2,,21:24,sound wav ~2min,127/81/81,ekg pdf ~30sec,20.00,79%,1008,37.2,97%,81,,low stress,,after 1 min smoking,,,,,,127,81,81,46,3726,54.52,18.52
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+3,,22:45,sound wav ~2min,141/92/74,ekg pdf ~30sec,19.30,82%,1008,36.9,97%,72,,,,during smoking,,,,,,141,92,74,49,3626,59.68,21.79
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+4,8:16 h sleep / sleep score 66 (REM 20% light 64% deep 6% awake 10%),8:20,sound wav ~2min,135/82/82,ekg pdf ~30sec,18.00,91%,1007,36.5,97%,82,113/75/82  SpO2 98% synus rhythm,low stress,,after cofee & smoking,1,3,5,light rain,wake up at 6:50,135,82,82,53,4346,53.85,1.61
+,20 iul 2021,,,,,,,,,,,,,,,,,,,after pills,,,,0,0,#DIV/0!,#DIV/0!
+,total 6850 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+5,,10:15,sound wav ~2min,120/76/85,ekg pdf ~30sec,18.20,90%,1007,36.5,98%,85,114/75/86  SpO2 99% synus rhythm,light headache,,after breakfast,3,4,6,light rain,,120,76,85,44,3740,51.95,18.07
+,after 2200 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+6,,11:10,sound wav ~2min,123/72/85,ekg pdf ~30sec,18.40,90%,1007,36.6,98%,87,113/75/91  SpO2 97% synus rhythm,light headache,,after cofee & smoking,2,5,7,light rain,,123,72,85,51,4335,51.95,1.87
+,plus 450 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+7,,13:25,wave loud,116/70/92,ekg pdf ~30sec,20.60,85%,1007,36.4,97%,94,113/75/92  SpO2 97% synus rhythm,medium stress,,after office activities,1,2,2,sunny,,116,70,92,46,4232,48.00,4.35
+,plus 200 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+8,,15:25,wave loud,122/77/95,ekg pdf ~30sec,19.10,84%,1007,36.7,98%,95,114/76/96  SpO2 97% synus rhythm,medium stress,,after lunch & office activities,0,0,0,rain,,122,77,95,45,4275,46.48,3.30
+,plus 1200 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+9,,18:00,sound wav ~2min,121/81/98,ekg pdf ~30sec,18.70,89%,1008,36.5,98%,96,119/80/97  SpO2 96% synus rhythm,high stress,,office activities,0,1,2,cloudy,,121,81,98,40,3920,45.06,12.65
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+10,,20:10,sound wav ~2min,130/79/89,ekg pdf ~30sec,18.30,89%,1009,36.9,96%,90,114/76/90  SpO2 96% synus rhythm,low stress,,after 5 min smoking,1,2,2,rain,,130,79,89,51,4539,49.62,-2.71
+,plus 2700 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+11,,21:50,sound wav ~2min,120/80/82,ekg pdf ~30sec,17.30,90%,1010,36.6,98%,82,114/75/86  SpO2 94% synus rhythm,low stress,,after 5 min smoking,1,2,3,rain,,120,80,82,40,3280,53.85,34.63
+,plus 100 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+12,,22:08,sound wav ~2min,124/86/87,ekg pdf ~30sec,17.20,90%,1010,36.6,97%,87,113/75/82  SpO2 97% synus rhythm,low stress,,after 1 min smoking,1,3,3,rain,,124,86,87,38,3306,50.76,33.58
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+13,8:05 h sleep / sleep score 54 (REM 28% light 57% deep 5% awake 10%),8:12,sound wav ~2min,137/88/90,ekg pdf ~30sec,15.70,91%,1011,36.9,99%,89,113/74/86  SpO2 98% synus rhythm,low stress,,after 5 min smoking,6,11,15,rain,wake up at 7:00,137,88,90,49,4410,49.07,0.14
+,21 iul 2021,,,,,,,,,,,,,,,,,,,no pills today,,,,0,0,#DIV/0!,#DIV/0!
+,total 9800 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+14,,8:30,sound wav ~2min,133/90/83,ekg pdf ~30sec,15.90,92%,1011,36.6,99%,89,114/75/86  SpO2 97% synus rhythm,low stress,,after 5 min smoking,5,8,10,cloudy,,133,90,83,43,3569,53.20,23.73
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+15,,14:03,sound wav ~2min,119/79/92,ekg pdf ~30sec,19.30,74%,1012,36.3,97%,92,117/78/94  SpO2 95% synus rhythm,medium stress,,after lunch & office activities,30,42,54,cloudy,,119,79,92,40,3680,48.00,20.00
+,plus 5500 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+16,recalibration of the wacth 3 / 3 measurements,20:30,sound wav ~2min,141/91/89,ekg pdf ~30sec,15.10,90%,1014,36.4,97%,91,126/80/92  SpO2 97% synus rhythm,low stress,,after 5 min smoking,2,5,7,cloudy,,141,91,89,50,4450,49.62,-0.76
+,plus 4300 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+17,9:22 h sleep / sleep score 68 (REM 22% light 66% deep 4% awake 8%),8:55,sound wav ~2min,123/83/93,ekg pdf ~30sec,15.50,94%,1015,36.7,96%,97,126/80/97  SpO2 96% synus rhythm,medium stress,,after 5 min smoking & coffee,4,6,9,sunny,wake up at 7:30,123,83,93,40,3720,47.48,18.71
+,22 iul 2021,,,,,,,,,,,,,,,,,,,no pills today,,,,0,0,#DIV/0!,#DIV/0!
+,total 11800 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+18,,15:41,sound wav ~2min,128/80/103,ekg pdf ~30sec,20.30,70%,1015,36.5,96%,101,128/84/103  SpO2 95% synus rhythm,high stress,,after lunch & office activities,5,8,11,sunny,,128,80,103,48,4944,42.87,-10.68
+,plus 7000 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+19,,16:24,sound wav ~2min,148/90/96,ekg pdf ~30sec,19.40,73%,1015,36.3,95%,103,131/85/97  SpO2 95% synus rhythm,medium stress,,after 1 min smoking,3,5,7,sunny,,148,90,96,58,5568,46.00,-20.69
+,plus 100 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+20,,17:02,sound wav ~2min,146/90/101,ekg pdf ~30sec,21.00,67%,1015,36.4,97%,97,130/85/96  SpO2 95% synus rhythm,medium stress,,after 5 min smoking & 1 beer,4,6,8,sunny,,146,90,101,56,5656,43.72,-21.92
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+21,,17:33,sound wav ~2min,143/89/92,ekg pdf ~30sec,21.20,62%,1014,36.2,97%,99,128/84/95  SpO2 93% synus rhythm,medium stress,,after 5 min smoking & 1 beer,4,6,8,sunny,,143,89,92,54,4968,48.00,-11.11
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+22,,17:50,sound wav ~2min,145/88/93,ekg pdf ~30sec,21.00,65%,1014,36.4,96%,95,128/84/103  SpO2 97% synus rhythm,low stress,,after 5 min smoking & 1 beer,4,6,8,sunny,,145,88,93,57,5301,47.48,-16.69
+,plus 400 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+23,,18:30,sound wav ~2min,136/87/92,ekg pdf ~30sec,19.90,73%,1014,36.3,96%,97,127/82/100  SpO2 96% synus rhythm,low stress,,after dinner,4,7,10,sunny,,136,87,92,49,4508,48.00,-2.04
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+24,,21:07,sound wav ~2min,133/84/86,ekg pdf ~30sec,16.60,79%,1014,36.7,96%,88,126/80/88  SpO2 96% synus rhythm,low stress,,after 5 min smoking & 1 beer,6,9,12,clear,,133,84,86,49,4214,51.35,4.79
+,plus 3300 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+25,7:55 h sleep / sleep score 79 (REM 22% light 61% deep 7% awake 10%),8:20,sound wav ~2min,136/87/96,ekg pdf ~30sec,14.50,89%,1014,36.5,98%,96,130/84/103  SpO2 96% synus rhythm,low stress,,after 5 min smoking & coffee,4,7,8,sunny,wake up at 7:20,136,87,96,49,4704,46.00,-6.12
+,23 iul 2021,,,,,,,,,,,,,,,,,,,before pills,,,,0,0,#DIV/0!,#DIV/0!
+,total 8800 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+26,,13:45,sound wav ~2min,133/81/102,ekg pdf ~30sec,22.30,62%,1013,36.2,96%,101,132/87/98  SpO2 97% synus rhythm,medium stress,,after brunch,5,8,9,sunny,,133,81,102,52,5304,43.29,-16.74
+,plus 4000 steps,,,,,,,,,,,,,,,,,,,after pills,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+27,7:52 h sleep / sleep score 75 (REM 24% light 55% deep 12% awake 9%),9:50,sound wav ~2min,126/79/90,ekg pdf ~30sec,18.50,80%,1013,36.6,96%,88,128/82/92  SpO2 97% synus rhythm,low stress,,after 10 min smoking & coffee,4,7,9,sunny,wake up at 7:50,126,79,90,47,4230,49.07,4.40
+,24 iul 2021,,,,,,,,,,,,,,,,,,,after pills,,,,0,0,#DIV/0!,#DIV/0!
+,total 9500 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+28,,10:47,sound wav ~2min,113/74/96,ekg pdf ~30sec,21.00,70%,1013,36.5,97%,98,126/81/89  SpO2 98% synus rhythm,low stress,,after 5 min smoking & 1 beer,5,8,9,sunny,,113,74,96,39,3744,46.00,17.95
+,plus 2000 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+29,,12:46,sound wav ~2min,131/83/83,ekg pdf ~30sec,20.70,68%,1014,36.3,96%,84,131/86/96  SpO2 97% synus rhythm,low stress,,after 5 min smoking & 1 beer,5,8,10,cloudy,,131,83,83,48,3984,53.20,10.84
+,plus 1000 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+30,,15:08,sound wav ~2min,129/82/92,ekg pdf ~30sec,22.60,59%,1013,36.3,97%,92,121/79/93  SpO2 96% synus rhythm,low stress,,after 5 min smoking & 1 beer,4,7,8,sunny,,129,82,92,47,4324,48.00,2.13
+,plus 1000 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+31,,16:17,sound wav ~2min,123/76/85,ekg pdf ~30sec,23.60,51%,1013,36.5,95%,90,126/82/87  SpO2 94% synus rhythm,low stress,,after lunch & office activities,4,7,10,sunny,,123,76,85,47,3995,51.95,10.54
+,plus 1000 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+32,,16:35,sound wav ~2min,124/79/90,ekg pdf ~30sec,23.30,52%,1013,36,96%,93,133/88/96  SpO2 96% synus rhythm,low stress,,after 10 min smoking,4,7,8,sunny,,124,79,90,45,4050,49.07,9.04
+,plus 200 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+33,,17:19,sound wav ~2min,120/77/92,ekg pdf ~30sec,23.10,52%,1013,36.3,96%,94,124/80/101  SpO2 97% synus rhythm,medium stress,,after 5 min smoking & 1 beer,5,8,10,sunny,,120,77,92,43,3956,48.00,11.63
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+34,,21:45,sound wav ~2min,129/85/82,ekg pdf ~30sec,17.30,73%,1013,36.5,98%,85,126/80/85  SpO2 96% synus rhythm,low stress,,after 5 min smoking & 1 beer,5,9,10,clear,,129,85,82,44,3608,53.85,22.39
+,plus 4300 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+35,8:32 h sleep / sleep score 78 (REM 32% light 50% deep 12% awake 6%),8:57,sound wav ~2min,138/86/86,ekg pdf ~30sec,15.60,83%,1014,36.4,97%,83,123/80/99  SpO2 95% synus rhythm,low stress,,after 5 min smoking & coffee,15,19,35,sunny,wake up at 7:30,138,86,86,52,4472,51.35,-1.25
+,25 iul 2021,,,,,,,,,,,,,,,,,,,after pills,,,,0,0,#DIV/0!,#DIV/0!
+,total 9500 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+36,,17:22,sound wav ~2min,122/78/94,ekg pdf ~30sec,26.40,49%,1014,36,94%,96,126/80/86  SpO2 97% synus rhythm,medium stress,,after lunch & office activities,8,12,14,sunny,,122,78,94,44,4136,46.98,6.77
+,plus 5000 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+37,,19:43,sound wav ~2min,119/82/96,ekg pdf ~30sec,22.60,65%,1013,36.5,97%,95,132/86/96  SpO2 96% synus rhythm,low stress,,after 10 min smoking,8,13,19,sunny,,119,82,96,37,3552,46.00,24.32
+,plus 6000 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+38,,20:20,sound wav ~2min,122/80/92,ekg pdf ~30sec,21.50,65%,1014,36.3,96%,93,126/82/93  SpO2 97%,low stress,,30 min no smoking,11,14,21,clear,,122,80,92,42,3864,48.00,14.29
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+39,,20:52,sound wav ~2min,121/78/93,ekg pdf ~30sec,20.80,65%,1014,36.5,97%,93,129/84/93  SpO2 97% synus rhythm,low stress,,after 10 min smoking,11,15,17,clear,,121,78,93,43,3999,47.48,10.43
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+40,,21:25,sound wav ~2min,135/83/91,ekg pdf ~30sec,20.00,65%,1014,36.5,95%,91,137/88/90  SpO2 95% synus rhythm,low stress,,during smoking,22,30,30,clear,,135,83,91,52,4732,48.53,-6.68
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+41,,22:22,sound wav ~2min,137/85/83,ekg pdf ~30sec,19.50,65%,1014,36.4,95%,82,127/83/83  SpO2 98% synus rhythm,low stress,,after 5 min smoking & 1 beer,13,18,26,clear,,137,85,83,52,4316,53.20,2.32
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+42,8:11 h sleep / sleep score 61 (REM 22% light 68% deep 3% awake 7%),8:21,sound wav ~2min,143/94/94,ekg pdf ~30sec,16.70,84%,1014,36.9,96%,97,133/87/96  SpO2 97% synus rhythm,low stress,,after 5 min smoking & coffee,10,15,18,cloudy,wake up at 7:20,143,94,94,49,4606,46.98,-4.13
+,26 iul 2021,,,,,,,,,,,,,,,,,,,after pills,,,,0,0,#DIV/0!,#DIV/0!
+,total 9500 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+43,,9:22,sound wav ~2min,131/86/90,ekg pdf ~30sec,18.90,80%,1015,36.4,95%,91,127/81/91  SpO2 97% synus rhythm,low stress,,after 5 min smoking,10,14,15,sunny,,131,86,90,45,4050,49.07,9.04
+,plus 1000 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+44,,9:53,sound wav ~2min,124/80/85,ekg pdf ~30sec,20.60,75%,1015,36.4,97%,95,130/84/95  SpO2 97% synus rhythm,low stress,,after breakfast,9,13,16,sunny,,124,80,85,44,3740,51.95,18.07
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+45,SpO2 switched,12:28,sound wav ~2min,135/85/92,ekg pdf ~30sec,25.50,54%,1016,35.8,94%,93,125/81/91  SpO2 97% synus rhythm,low stress,,after 5 min smoking,7,11,12,sunny,,135,85,92,50,4600,48.00,-4.00
+,1h sleeping,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+46,,12:49,sound wav ~2min,124/81/90,ekg pdf ~30sec,25.80,54%,1016,35.7,96%,87,122/78/87  SpO2 94% synus rhythm,low stress,,after 10 min smoking,55,72,84,sunny,,124,81,90,43,3870,49.07,14.11
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+47,,13:05,sound wav ~2min,134/83/87,ekg pdf ~30sec,26.20,53%,1015,35.1,98%,88,125/81/88  SpO2 97% synus rhythm,low stress,,after 10 min smoking,8,11,13,sunny,,134,83,87,51,4437,50.76,-0.47
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+48,,13:49,sound wav ~2min,132/84/92,ekg pdf ~30sec,27.20,51%,1015,35,97%,94,128/84/95  SpO2 97% synus rhythm,low stress,,after 5 min smoking,9,12,16,sunny,,132,84,92,48,4416,48.00,0.00
+,plus 500 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+49,,14:05,sound wav ~2min,129/83/87,ekg pdf ~30sec,27.40,50%,1016,35,97%,89,124/80/88  SpO2 96% synus rhythm,low stress,,after 5 min smoking,11,16,21,sunny,,129,83,87,46,4002,50.76,10.34
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+50,,15:56,sound wav ~2min,123/82/100,ekg pdf ~30sec,27.60,50%,1015,36.1,96%,101,126/83/102  SpO2 94% synus rhythm,low stress,,after lunch & office activities,9,13,15,sunny,,123,82,100,41,4100,44.16,7.71
+,plus 1500 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+51,,17:57,sound wav ~2min,138/85/100,ekg pdf ~30sec,25.90,61%,1015,36.3,96%,100,129/85/101  SpO2 89% synus rhythm,medium stress,,after 5 min smoking,8,12,12,sunny,,138,85,100,53,5300,44.16,-16.68
+,plus 500 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+52,,21:10,sound wav ~2min,132/84/84,ekg pdf ~30sec,21.50,74%,1015,36.8,96%,84,127/83/86  SpO2 98% synus rhythm,low stress,,after 10 min smoking,10,14,17,clear,,132,84,84,48,4032,52.57,9.52
+,plus 3500 steps,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,#DIV/0!,#DIV/0!
+53,,,,,,,,,,,,,,,,,,,,,,,,2438,220044,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,48.76,4400.88,,
+54,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+61,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
