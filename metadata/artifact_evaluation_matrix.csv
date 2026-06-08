@@ -1,0 +1,10 @@
+criterion,metric,scope,status,evidence_file,release
+File integrity,ZIP integrity and SHA-256 checksums present,public data/code package,PASS,file_checksums_sha256.txt,4.4
+Schema compliance,Required processed-data columns present,processed tables,PASS,metadata/schema_measurements_strict_v4.json; validation report,4.4
+Record-level completeness,52 timestamped sessions retained,clean_measurements_wide.csv,PASS,data_processed/clean_measurements_wide.csv,4.4
+Temporal harmonisation,Local timestamp and day/session fields present,processed wide and long tables,PASS,timestamp_local_iso; day_index; hour_decimal_local,4.4
+Measurement-level tagging,Session-level and daily-level variables documented,processed wide and long tables,PASS,measurement_level_note; data dictionary,4.4
+Missingness profiling,Missingness table and heatmap available,processed tables,PASS,reports/missingness_report.csv; figures/figure_2_missingness_heatmap.png,4.4
+Device-pairing consistency,Device agreement tables available for paired variables,Omron/Samsung/PPG/ECG report values,PASS,data_processed/device_agreement_summary.csv,4.4
+Reproducibility,Pipeline regenerates processed outputs and figures,N1-MHKit scripts,PASS,code/run_all.py; docs/reproducibility_guide.md,4.4
+Privacy screening,Plain-text scan plus raw-file privacy review guidance,metadata/docs/reports,MANUAL REVIEW REQUIRED,metadata/privacy_risk_assessment.md; code/validate_package_v4.py,4.4

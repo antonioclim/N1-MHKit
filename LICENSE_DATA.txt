@@ -1,0 +1,3 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Data files in this repository are intended for reuse under CC BY 4.0, provided that ethical, consent and privacy requirements for public release have been satisfied by the depositor. Users must cite the Zenodo record and must not treat the data as clinical diagnostic evidence.

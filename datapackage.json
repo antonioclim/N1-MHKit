@@ -1,0 +1,296 @@
+{
+  "profile": "data-package",
+  "name": "n1-mhkit-public-release",
+  "title": "N1-MHKit reproducible data-management package for multimodal personal health monitoring information systems",
+  "version": "4.4",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Clim, Antonio",
+      "role": "Data collector"
+    }
+  ],
+  "resources": [
+    {
+      "name": "clean_measurements_wide",
+      "path": "data_processed/clean_measurements_wide.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "session_id",
+            "type": "integer"
+          },
+          {
+            "name": "timestamp_local_iso",
+            "type": "string"
+          },
+          {
+            "name": "datetime",
+            "type": "string"
+          },
+          {
+            "name": "date_local",
+            "type": "string"
+          },
+          {
+            "name": "day_index",
+            "type": "integer"
+          },
+          {
+            "name": "hour_decimal_local",
+            "type": "number"
+          },
+          {
+            "name": "time_of_day_category",
+            "type": "string"
+          },
+          {
+            "name": "raw_session_zip",
+            "type": "string"
+          },
+          {
+            "name": "sleep_duration_min",
+            "type": "integer"
+          },
+          {
+            "name": "sleep_score",
+            "type": "integer"
+          },
+          {
+            "name": "rem_pct",
+            "type": "integer"
+          },
+          {
+            "name": "light_pct",
+            "type": "integer"
+          },
+          {
+            "name": "deep_pct",
+            "type": "integer"
+          },
+          {
+            "name": "awake_pct",
+            "type": "integer"
+          },
+          {
+            "name": "steps_daily",
+            "type": "integer"
+          },
+          {
+            "name": "omron_sbp_mmHg",
+            "type": "number"
+          },
+          {
+            "name": "omron_dbp_mmHg",
+            "type": "number"
+          },
+          {
+            "name": "omron_hr_bpm",
+            "type": "number"
+          },
+          {
+            "name": "pulse_pressure_mmHg",
+            "type": "number"
+          },
+          {
+            "name": "map_estimated_mmHg",
+            "type": "number"
+          },
+          {
+            "name": "rate_pressure_product",
+            "type": "number"
+          },
+          {
+            "name": "ppg_spo2_pct",
+            "type": "number"
+          },
+          {
+            "name": "ppg_pulse_bpm",
+            "type": "number"
+          },
+          {
+            "name": "samsung_sbp_mmHg",
+            "type": "number"
+          },
+          {
+            "name": "samsung_dbp_mmHg",
+            "type": "number"
+          },
+          {
+            "name": "samsung_hr_bpm",
+            "type": "number"
+          },
+          {
+            "name": "samsung_spo2_pct",
+            "type": "number"
+          },
+          {
+            "name": "samsung_rhythm_label",
+            "type": "string"
+          },
+          {
+            "name": "samsung_stress_label",
+            "type": "string"
+          },
+          {
+            "name": "samsung_stress_ordinal",
+            "type": "number"
+          },
+          {
+            "name": "env_temperature_C",
+            "type": "number"
+          },
+          {
+            "name": "env_humidity_pct",
+            "type": "number"
+          },
+          {
+            "name": "env_pressure_hPa",
+            "type": "number"
+          },
+          {
+            "name": "body_temperature_C",
+            "type": "number"
+          },
+          {
+            "name": "pm1",
+            "type": "number"
+          },
+          {
+            "name": "pm2_5",
+            "type": "number"
+          },
+          {
+            "name": "pm10",
+            "type": "number"
+          },
+          {
+            "name": "weather",
+            "type": "string"
+          },
+          {
+            "name": "wake_med_notes",
+            "type": "string"
+          },
+          {
+            "name": "activity",
+            "type": "string"
+          },
+          {
+            "name": "smoking_flag",
+            "type": "integer"
+          },
+          {
+            "name": "coffee_flag",
+            "type": "integer"
+          },
+          {
+            "name": "beer_flag",
+            "type": "integer"
+          },
+          {
+            "name": "office_flag",
+            "type": "integer"
+          },
+          {
+            "name": "meal_flag",
+            "type": "integer"
+          },
+          {
+            "name": "pcg_sampling_rate_Hz",
+            "type": "number"
+          },
+          {
+            "name": "pcg_channels",
+            "type": "number"
+          },
+          {
+            "name": "pcg_sample_width_bytes",
+            "type": "number"
+          },
+          {
+            "name": "pcg_duration_s",
+            "type": "number"
+          },
+          {
+            "name": "pcg_file_size_bytes",
+            "type": "number"
+          },
+          {
+            "name": "annotation_duration_s",
+            "type": "number"
+          },
+          {
+            "name": "annotation_datetime_text",
+            "type": "string"
+          },
+          {
+            "name": "ecg_report_hr_bpm",
+            "type": "number"
+          },
+          {
+            "name": "ecg_report_check_time",
+            "type": "string"
+          },
+          {
+            "name": "ecg_report_last_marker",
+            "type": "string"
+          },
+          {
+            "name": "ecg_signal_reanalysable",
+            "type": "boolean"
+          },
+          {
+            "name": "measurement_level_note",
+            "type": "string"
+          },
+          {
+            "name": "qc_flag_any",
+            "type": "boolean"
+          },
+          {
+            "name": "qc_notes",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "clean_measurements_long",
+      "path": "data_processed/clean_measurements_long.csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "data_dictionary",
+      "path": "metadata/data_dictionary.csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "device_dictionary",
+      "path": "metadata/device_dictionary.csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "qc_flags",
+      "path": "data_processed/qc_flags.csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "pcg_audio_features",
+      "path": "data_processed/pcg_audio_features.csv",
+      "profile": "tabular-data-resource"
+    },
+    {
+      "name": "ecg_pdf_labels",
+      "path": "data_processed/ecg_pdf_labels.csv",
+      "profile": "tabular-data-resource"
+    }
+  ]
+}

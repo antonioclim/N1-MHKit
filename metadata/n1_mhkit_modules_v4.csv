@@ -1,0 +1,9 @@
+module,input,process,output
+Ingestion layer,"Original Zenodo ZIP, centralised tables, nested session archives",Parses folder/session structure and core tabular data,measurements_wide_raw_parsed.csv
+Schema and metadata layer,Processed tables and dictionaries,"Checks required columns, units, plausible ranges and measurement levels",validation_report_v4.csv
+Normalisation layer,Raw heterogeneous variables,"Standardises timestamps, units, stress labels, flags and derived cardiovascular fields",clean_measurements_wide.csv; clean_measurements_long.csv
+Quality-control layer,Clean tables and raw objects,"Profiles missingness, outliers, ECG PDF availability and PCG audio metadata",qc_flags.csv; pcg_audio_features.csv; ecg_pdf_labels.csv
+Device-agreement module,"Paired measurements from Omron, Samsung, PPG and ECG reports","Computes bias, limits of agreement and absolute differences",device_agreement_summary.csv
+Privacy-risk gate,Textual metadata and release materials,Scans for identifier-like patterns and provides manual review checklist,privacy_scan_findings_v4.csv
+Reproducibility/reporting module,"Code, package structure and processed data","Regenerates tables, figures, reports and checksums",figures/; reports/; checksums
+External adapter layer,MHEALTH-like public wearable table,Maps external rows into long-format schema when data are supplied,external_validation_mhealth_long.csv

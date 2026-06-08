@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "N1-MHKit: Reproducible data-management package for multimodal personal health monitoring information systems"
+message: "If you use this dataset or code, please cite the Zenodo record and the accompanying manuscript when available."
+type: software
+authors:
+  - family-names: Clim
+    given-names: Antonio
+version: "4.4"
+date-released: "2026-06-08"

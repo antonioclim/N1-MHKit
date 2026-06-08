@@ -1,0 +1,8 @@
+design_principle,rationale,operationalisation
+Modality-specific provenance,"Every variable should be tied to its device, raw object, unit, measurement level and processing step.",Data dictionary; device dictionary; raw/intermediate/processed separation
+Layered data architecture,"Raw, intermediate and analysis-ready layers should remain distinct to preserve auditability.","data_raw/, data_intermediate/, data_processed/"
+Measurement-level tagging,"Session-level, daily-level, signal-level, report-level and contextual-event variables should not be collapsed without metadata.",measurement_level_note; clean long format
+Schema-first validation,"Processed data should be checked against required variables, types and plausible ranges before analysis.",schema_measurements_strict_v4.json; validate_package_v4.py
+Device-agreement awareness,Values produced by different devices should not be treated as interchangeable without paired-data checks.,device_agreement_summary.csv
+Privacy-gated publication,Personal monitoring data should undergo automated and manual privacy checks before public release.,privacy scan; ethics/privacy documents
+Non-clinical interpretability boundary,"The artefact supports data management and reproducibility, not clinical diagnosis or treatment decisions.",README; interpretation rules; limitations

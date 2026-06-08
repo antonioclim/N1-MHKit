@@ -1,0 +1,7 @@
+dsr_stage,implementation,package_location
+Problem identification,"Personal health monitoring information systems produce heterogeneous, asynchronous and privacy-sensitive data that are difficult to curate and reuse reproducibly.",README.md
+Objectives of a solution,"Create a schema-first workflow for validation, harmonisation, quality control, privacy screening and reusable packaging.",docs/technical_architecture.md
+Design and development,"N1-MHKit includes ingestion, schema validation, normalisation, quality-control, device-agreement, privacy and reproducibility modules.",code/; metadata/
+Demonstration,Application to a real-world multimodal personal health monitoring dataset with 52 timestamped sessions.,data_raw/; data_processed/
+Evaluation,"File integrity, schema compliance, missingness profiling, device-pairing consistency, privacy scan and smoke tests.",reports/; code/validate_package_v4.py
+Communication,"Zenodo data/code package, documentation and reproducibility guide.",README.md; docs/

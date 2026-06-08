@@ -1,0 +1,9 @@
+code,meaning
+low stress,low stress label as recorded
+medium stress,medium stress label as recorded
+high stress,high stress label as recorded
+light headache,contextual symptom note; treated as missing/ambiguous for validated stress analyses
+sinus,sinus rhythm text label as recorded by Samsung/parsed text
+smoking_flag,1 if activity text indicated smoking; 0 otherwise
+coffee_flag,1 if activity text indicated coffee; 0 otherwise
+beer_flag,1 if activity text indicated beer/alcohol; 0 otherwise

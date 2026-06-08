@@ -1,0 +1,20 @@
+{
+  "title": "N1-MHKit: Reproducible data-management package for multimodal personal health monitoring information systems",
+  "version": "4.4",
+  "resource_type": "software",
+  "description": "N1-MHKit is a reproducible data-management package for multimodal personal health monitoring information systems. The package includes raw and processed data, schema definitions, metadata, quality-control outputs, privacy documentation, reproducibility scripts and generated figures. The demonstration data contain 52 timestamped measurement sessions from one adult participant and are intended for research, data-management, reproducibility and software-testing purposes.",
+  "keywords": [
+    "health informatics",
+    "personal health information systems",
+    "data management",
+    "reproducibility",
+    "wearable data",
+    "design science research",
+    "privacy-aware information systems",
+    "phonocardiography",
+    "electrocardiogram reports",
+    "quality control"
+  ],
+  "license_code": "MIT",
+  "license_data": "CC-BY-4.0"
+}
