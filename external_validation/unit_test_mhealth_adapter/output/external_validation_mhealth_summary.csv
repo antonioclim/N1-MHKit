@@ -1,0 +1,5 @@
+metric,value
+input_rows,20
+output_long_rows,500
+variables_mapped,25
+missing_values,0

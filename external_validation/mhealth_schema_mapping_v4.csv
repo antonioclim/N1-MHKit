@@ -1,0 +1,4 @@
+source_field,n1_mhkit_field,unit,mapping_note
+MHEALTH column 1,time_index_or_row_index,index,external row order used as time surrogate if timestamp absent
+MHEALTH activity label,activity_label,categorical,mapped as contextual/activity variable
+MHEALTH sensor columns,external_sensor_variable,numeric,mapped to long format with unit unknown unless supplied
